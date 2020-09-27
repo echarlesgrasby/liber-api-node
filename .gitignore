@@ -1,4 +1,4 @@
 **/MISC/covers/*jpg
 **/MISC/initdata/one-liners.txt
-**/MISC/initdata/isbn_with_cover_path.csv
 **/node_modules/*
+db_conn.js

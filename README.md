@@ -30,4 +30,4 @@ To load the isbn.csv file, utilize the mongoimport tool via the following shell 
 ### Development Notes
 
 Bulk loading a mongo collection from a .js file: 
-(local devleopment) ```mongo http://127.0.0.1/liber insert_comments.js```
+(local devleopment) ```mongo 127.0.0.1:27017/liber insert_comments.js``` *You have to provide the absolute path to insert_comments.js*
